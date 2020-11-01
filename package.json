@@ -1,0 +1,15 @@
+{
+  "name": "zuesjs",
+  "version": "1.0.0",
+  "description": "This tool checks and reports common service provider statuses via HTTPS to your own RESTful API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "www.yorda.dev",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "puppeteer": "^5.4.1"
+  }
+}
